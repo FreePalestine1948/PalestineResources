@@ -344,3 +344,173 @@
     - Publications
     - Data/Statistics
   
+
+### Middle East Research and Information Project
+
+- Description: Critical Coverage of the Middle East Since 1971
+- Link: [Middle East Research and Information Project](https://merip.org/)
+- Categories:
+  
+    - History
+    - News
+    - Publications
+  
+
+### The Deir Yassin massacre: Why it still matters 75 years later
+
+- Description: The brutality of the Deir Yassin prompted thousands of Palestinians to flee, just weeks before Israel was created.
+- Link: [The Deir Yassin massacre: Why it still matters 75 years later](https://www.aljazeera.com/news/2023/4/9/the-deir-yassin-massacre-why-it-still-matters-75-years-later)
+- Categories:
+  
+    - History
+    - Publications
+  
+
+### We must never forget Israel’s massacre in Jenin
+
+- Description: This article talks about israeli massacre in Jenin in 2002 where at least 52 Palestinian refugees got killed
+- Link: [We must never forget Israel’s massacre in Jenin](https://www.middleeastmonitor.com/20200414-we-must-never-forget-israels-massacre-in-jenin/)
+- Categories:
+  
+    - History
+    - Publications
+  
+
+### Journal of Palestine Studies, Volume 52, Issue 4 (2023)
+
+- Description: The latest issue of the Journal of Palestine Studies, a multidisciplinary academic journal published by Routledge, Taylor & Francis on behalf of the Institute for Palestine Studies.
+- Link: [Journal of Palestine Studies, Volume 52, Issue 4 (2023)](https://www.tandfonline.com/toc/rpal20/52/4)
+- Categories:
+  
+    - Publications
+  
+
+### Interactive Encyclopedia of the Palestine Question
+
+- Description: Explore thousands of events, biographies, highlights, places, and primary documents, in the first interactive platform entirely devoted to the Palestine Question.
+- Link: [Interactive Encyclopedia of the Palestine Question](https://www.palquest.org/)
+- Categories:
+  
+    - History
+    - Publications
+  
+
+### Zionist role in 1950s attacks on Iraqi Jews
+
+- Description: Zionist role in 1950s attacks on Iraqi Jews 'confirmed' by operative and police report
+- Link: [Zionist role in 1950s attacks on Iraqi Jews](https://www.middleeasteye.net/news/iraq-jews-attacks-zionist-role-confirmed-operative-police-report)
+- Categories:
+  
+    - History
+    - Publications
+  
+
+### Journalist casualties in the Israel-Gaza war
+
+- Description: The list is CPJ’s most recent and preliminary account of journalist deaths in the war.
+- Link: [Journalist casualties in the Israel-Gaza war](https://cpj.org/2024/01/journalist-casualties-in-the-israel-gaza-conflict/)
+- Categories:
+  
+    - Publications
+  
+
+### LAP - Librarians and Archivists in solidarity with Palestine
+
+- Description: A network of self-defined librarians, archivists, and information workers in solidarity with the Palestinian struggle for self-determination.
+- Link: [LAP - Librarians and Archivists in solidarity with Palestine](https://librarianswithpalestine.org)
+- Categories:
+  
+    - Publications
+    - Art, Activism, and Education
+  
+
+### Palestine, in your Inbox: Free Content about Palestine
+
+- Description: Newsletter on Palestine written by historian Zachary Foster
+- Link: [Palestine, in your Inbox: Free Content about Palestine](https://palestine.beehiiv.com/)
+- Categories:
+  
+    - News
+    - Publications
+  
+
+### Truthout
+
+- Description: Truthout is a nonprofit news org dedicated to independent reporting and commentary on social justice issues. Founded in 2001, our work emphasizes accuracy, transparency, and independence from corporate and political influence.
+- Link: [Truthout](https://truthout.org/topics/gaza/)
+- Categories:
+  
+    - News
+    - Publications
+  
+
+### Palestineun
+
+- Description: Permanent Observer Mission of Palestine to the United Nations
+- Link: [Palestineun](https://palestineun.org/sitemap/)
+- Categories:
+  
+    - Publications
+    - Art, Activism, and Education
+  
+
+### State Of Palestine NAD
+
+- Description: The official website of the Palestine Liberation Organization Negotiation Affairs Department
+- Link: [State Of Palestine NAD](https://www.nad.ps)
+- Categories:
+  
+    - Publications
+    - Art, Activism, and Education
+    - Data/Statistics
+  
+
+### Institute For Middle East Understanding (IMEU)
+
+- Description: The Institute for Middle East Understanding (IMEU) is a non-profit organization that offers journalists facts, analysis, experts, and digital resources about Palestine and Palestinians.
+- Link: [Institute For Middle East Understanding (IMEU)](https://imeu.org/)
+- Categories:
+  
+    - Culture
+    - Non-profit Organizations
+    - Publications
+    - Art, Activism, and Education
+  
+
+### The Institute for Middle East Understanding Publications
+
+- Description: Publications shared by the Institute for Middle East Understanding (IMEU)
+- Link: [The Institute for Middle East Understanding Publications](https://sprout.link/theimeu)
+- Categories:
+  
+    - Publications
+    - Art, Activism, and Education
+  
+
+### Imprisoning Palestine
+
+- Description: Zionist colonialism through an abolitionist lens.
+- Link: [Imprisoning Palestine](https://scalawagmagazine.org/2023/06/abolitionist-palestine/)
+- Categories:
+  
+    - Publications
+  
+
+### Operation Al Aqsa Flood
+
+- Description: Publication talks about ‘Operation Al Aqsa Flood’ as an act of decolonization
+- Link: [Operation Al Aqsa Flood](https://mondoweiss.net/2023/10/operation-al-aqsa-flood-was-an-act-of-decolonization/)
+- Categories:
+  
+    - Publications
+  
+
+### Metras
+
+- Description: A digital media platform focused on Palestine, creating content and producing cognitive & journalistic materials, committed to the Palestinian cause and resistance.
+- Link: [Metras](https://metras.co/)
+- Categories:
+  
+    - News
+    - Publications
+  

@@ -194,15 +194,6 @@
     - Art, Activism, and Education
   
 
-### The Accountability Archive
-
-- Description: A crowdsourced record of journalists, politicians, and public figures endorsing or encouraging the ethnic cleansing of Gaza and/or defaming pro-Palestinian activists.
-- Link: [The Accountability Archive](https://accountabilityarchive.org)
-- Categories:
-  
-    - Archival
-  
-
 ### Genocide Club
 
 - Description: Contrasts statements with the human toll of Israel's genocidal campaign in Gaza.
@@ -268,4 +259,67 @@
     - Archival
     - Publications
     - Data/Statistics
+  
+
+### Is It Genocide?
+
+- Description: Designed to provide an authoritative answer to the question of genocidal intent in Gaza, Is It Genocide? is a set of authentic, well-source quotes from Israeli leaders, presented as an immersive animation.
+- Link: [Is It Genocide?](https://isitgenocide.com)
+- Categories:
+  
+    - Archival
+    - History
+    - Art, Activism, and Education
+  
+
+### Gaza Passages
+
+- Description: We collect, translate and publish texts from Palestinian writers confronting the genocide in Gaza, to lift up their words.
+- Link: [Gaza Passages](https://www.gazapassages.com/)
+- Categories:
+  
+    - Archival
+    - Culture
+    - Art, Activism, and Education
+  
+
+### Palestine Side
+
+- Description: Informative, Educational resources about the Palestine case
+- Link: [Palestine Side](https://www.palestineside.site/)
+- Categories:
+  
+    - Archival
+    - Martyrs
+    - Art, Activism, and Education
+  
+
+### Raven Mission
+
+- Description: The Raven Mission is dedicated to documenting the world's reaction to the ongoing atrocities faced by the Palestinian people
+- Link: [Raven Mission](https://www.ravenmission.org/)
+- Categories:
+  
+    - Archival
+    - Art, Activism, and Education
+  
+
+### Counter Coalition
+
+- Description: Countering Money's Influence in American Democracy
+- Link: [Counter Coalition](https://www.countercoalition.org)
+- Categories:
+  
+    - Archival
+    - Art, Activism, and Education
+  
+
+### Save Palestine Now
+
+- Description: FAQ - Major Questions Relevant to the Israeli-Palestinian Conflict
+- Link: [Save Palestine Now](https://www.geocities.ws/savepalestinenow)
+- Categories:
+  
+    - Archival
+    - Art, Activism, and Education
   

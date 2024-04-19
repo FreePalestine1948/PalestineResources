@@ -134,3 +134,53 @@
     - News
     - Publications
   
+
+### Middle East Research and Information Project
+
+- Description: Critical Coverage of the Middle East Since 1971
+- Link: [Middle East Research and Information Project](https://merip.org/)
+- Categories:
+  
+    - History
+    - News
+    - Publications
+  
+
+### Gaza Now
+
+- Description: Gaza Now news official website
+- Link: [Gaza Now](https://gnnanow.com/)
+- Categories:
+  
+    - News
+  
+
+### Palestine, in your Inbox: Free Content about Palestine
+
+- Description: Newsletter on Palestine written by historian Zachary Foster
+- Link: [Palestine, in your Inbox: Free Content about Palestine](https://palestine.beehiiv.com/)
+- Categories:
+  
+    - News
+    - Publications
+  
+
+### Truthout
+
+- Description: Truthout is a nonprofit news org dedicated to independent reporting and commentary on social justice issues. Founded in 2001, our work emphasizes accuracy, transparency, and independence from corporate and political influence.
+- Link: [Truthout](https://truthout.org/topics/gaza/)
+- Categories:
+  
+    - News
+    - Publications
+  
+
+### Metras
+
+- Description: A digital media platform focused on Palestine, creating content and producing cognitive & journalistic materials, committed to the Palestinian cause and resistance.
+- Link: [Metras](https://metras.co/)
+- Categories:
+  
+    - News
+    - Publications
+  

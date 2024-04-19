@@ -141,3 +141,31 @@
     - History
     - Publications
   
+
+### Palestine Reading List
+
+- Description: A list of books that are related to the Palestinian case
+- Link: [Palestine Reading List](https://heystacks.com/doc/581/palestine-reading-list)
+- Categories:
+  
+    - Directory
+    - History
+  
+
+### Awesome Palestine
+
+- Description: A curated list of Palestine and Palestinian-Israeli conflict resources.
+- Link: [Awesome Palestine](https://awesome-palestine.surge.sh/)
+- Categories:
+  
+    - Directory
+  
+
+### Palestine Resources
+
+- Description: A public list of resources about Palestine
+- Link: [Palestine Resources](https://docs.google.com/document/d/1lZnAXqoCAL2FmdsWIiWp1CfbEnTPbST8RLTYqgWl-M0/edit)
+- Categories:
+  
+    - Directory
+  

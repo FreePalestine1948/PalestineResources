@@ -116,3 +116,25 @@
     - Non-profit Organizations
     - Donations
   
+
+### Palestine Red Crescent Society
+
+- Description: Palestine Red Crescent Society (PRCS) officially founded in 1968, is a national humanitarian organization caters to the health and welfare of the Palestinian people and others in need.
+- Link: [Palestine Red Crescent Society](https://www.palestinercs.org)
+- Categories:
+  
+    - Non-profit Organizations
+    - Donations
+  
+
+### Institute For Middle East Understanding (IMEU)
+
+- Description: The Institute for Middle East Understanding (IMEU) is a non-profit organization that offers journalists facts, analysis, experts, and digital resources about Palestine and Palestinians.
+- Link: [Institute For Middle East Understanding (IMEU)](https://imeu.org/)
+- Categories:
+  
+    - Culture
+    - Non-profit Organizations
+    - Publications
+    - Art, Activism, and Education
+  

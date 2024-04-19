@@ -135,3 +135,39 @@
     - History
     - Publications
   
+
+### Gaza Passages
+
+- Description: We collect, translate and publish texts from Palestinian writers confronting the genocide in Gaza, to lift up their words.
+- Link: [Gaza Passages](https://www.gazapassages.com/)
+- Categories:
+  
+    - Archival
+    - Culture
+    - Art, Activism, and Education
+  
+
+### If I Must Die
+
+- Description: This website is a collection of some of these dozens of heartfelt translations in memory and honor of Refaat Alareer, @itranslate123, and in support of the the Palestinian struggle for liberation.
+   
+   let it be a tale.
+- Link: [If I Must Die](https://ifimustdie.net/)
+- Categories:
+  
+    - Culture
+    - Martyrs
+    - Art, Activism, and Education
+  
+
+### Institute For Middle East Understanding (IMEU)
+
+- Description: The Institute for Middle East Understanding (IMEU) is a non-profit organization that offers journalists facts, analysis, experts, and digital resources about Palestine and Palestinians.
+- Link: [Institute For Middle East Understanding (IMEU)](https://imeu.org/)
+- Categories:
+  
+    - Culture
+    - Non-profit Organizations
+    - Publications
+    - Art, Activism, and Education
+  

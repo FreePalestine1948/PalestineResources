@@ -347,3 +347,181 @@
     - History
     - Publications
   
+
+### Palestine Reading List
+
+- Description: A list of books that are related to the Palestinian case
+- Link: [Palestine Reading List](https://heystacks.com/doc/581/palestine-reading-list)
+- Categories:
+  
+    - Directory
+    - History
+  
+
+### Truth About Palestine
+
+- Description: truth About Palestine From history to present
+- Link: [Truth About Palestine](https://truthaboutpalestine.com/)
+- Categories:
+  
+    - History
+    - Art, Activism, and Education
+    - Data/Statistics
+    - Donations
+  
+
+### Jewish Terrorist activities and the British government in  Palestine
+
+- Description: A thesis submitted in 1985 talks about Jewish Terrorist activities and the British government in  Palestine
+- Link: [Jewish Terrorist activities and the British government in  Palestine](https://ora.ox.ac.uk/objects/uuid:762b3fb7-837a-4d21-ac2b-44676535ffa0/download_file?file_format=application%2Fpdf&safe_filename=602328526.pdf&type_of_work=Thesis)
+- Categories:
+  
+    - History
+    - Art, Activism, and Education
+  
+
+### Middle East Research and Information Project
+
+- Description: Critical Coverage of the Middle East Since 1971
+- Link: [Middle East Research and Information Project](https://merip.org/)
+- Categories:
+  
+    - History
+    - News
+    - Publications
+  
+
+### Our Gaza
+
+- Description: Learn about Gaza through a different lens. Help the people in need, cancel companies, and keep the new generation informed.
+- Link: [Our Gaza](https://ourgaza.com/)
+- Categories:
+  
+    - Boycott & Company Listings
+    - History
+    - Martyrs
+    - Art, Activism, and Education
+  
+
+### The Deir Yassin massacre: Why it still matters 75 years later
+
+- Description: The brutality of the Deir Yassin prompted thousands of Palestinians to flee, just weeks before Israel was created.
+- Link: [The Deir Yassin massacre: Why it still matters 75 years later](https://www.aljazeera.com/news/2023/4/9/the-deir-yassin-massacre-why-it-still-matters-75-years-later)
+- Categories:
+  
+    - History
+    - Publications
+  
+
+### Qibya massacre
+
+- Description: Another massacre by zionist in 1953 two-thirds of the killed were women and children
+- Link: [Qibya massacre](https://en.wikipedia.org/wiki/Qibya_massacre)
+- Categories:
+  
+    - History
+  
+
+### Rafah massacre 1956
+
+- Description: The details of the Rafa massacre that occurred on November 12, 1956, during israel's occupation of the Sinai Peninsula and Gaza Protectorate following the Suez Crisis
+- Link: [Rafah massacre 1956](https://en.wikipedia.org/wiki/Rafah_massacre)
+- Categories:
+  
+    - History
+  
+
+### Bahr El-Baqar primary school bombing
+
+- Description: The story of bombing children school in Egypt by an israeli airstrike
+- Link: [Bahr El-Baqar primary school bombing](https://en.wikipedia.org/wiki/Bahr_El-Baqar_primary_school_bombing)
+- Categories:
+  
+    - History
+  
+
+### Sabra and Shatila massacre
+
+- Description: This article is about the 1982 mass murder in Beirut, Lebanon by israelis.
+- Link: [Sabra and Shatila massacre](https://en.wikipedia.org/wiki/Sabra_and_Shatila_massacre)
+- Categories:
+  
+    - History
+  
+
+### Hebron Massacre, 1994
+
+- Description: This article is about the massacre that happened in West Bank on 1994
+- Link: [Hebron Massacre, 1994](https://www.palestine-studies.org/en/node/1652605)
+- Categories:
+  
+    - History
+  
+
+### We must never forget Israel’s massacre in Jenin
+
+- Description: This article talks about israeli massacre in Jenin in 2002 where at least 52 Palestinian refugees got killed
+- Link: [We must never forget Israel’s massacre in Jenin](https://www.middleeastmonitor.com/20200414-we-must-never-forget-israels-massacre-in-jenin/)
+- Categories:
+  
+    - History
+    - Publications
+  
+
+### Gaza War 2008
+
+- Description: This article is about the Gaza War in 2008
+- Link: [Gaza War 2008](https://www.palquest.org/en/highlight/29896/war-gaza-2008%E2%80%932009)
+- Categories:
+  
+    - History
+  
+
+### Gaza War 2014
+
+- Description: This article summarizes the civilian looses and damages in Gaza during the 2014 war
+- Link: [Gaza War 2014](https://www.unrwa.org/2014-gaza-conflict)
+- Categories:
+  
+    - History
+  
+
+### Interactive Encyclopedia of the Palestine Question
+
+- Description: Explore thousands of events, biographies, highlights, places, and primary documents, in the first interactive platform entirely devoted to the Palestine Question.
+- Link: [Interactive Encyclopedia of the Palestine Question](https://www.palquest.org/)
+- Categories:
+  
+    - History
+    - Publications
+  
+
+### Is It Genocide?
+
+- Description: Designed to provide an authoritative answer to the question of genocidal intent in Gaza, Is It Genocide? is a set of authentic, well-source quotes from Israeli leaders, presented as an immersive animation.
+- Link: [Is It Genocide?](https://isitgenocide.com)
+- Categories:
+  
+    - Archival
+    - History
+    - Art, Activism, and Education
+  
+
+### Zionist role in 1950s attacks on Iraqi Jews
+
+- Description: Zionist role in 1950s attacks on Iraqi Jews 'confirmed' by operative and police report
+- Link: [Zionist role in 1950s attacks on Iraqi Jews](https://www.middleeasteye.net/news/iraq-jews-attacks-zionist-role-confirmed-operative-police-report)
+- Categories:
+  
+    - History
+    - Publications
+  
+
+### Not guilty. The israeli captain who emptied his rifle into a Palestinian schoolgirl
+
+- Description: An old article details how an  israeli captain his rifle into a Palestinian schoolgirl was not guilty in the israeli court
+- Link: [Not guilty. The israeli captain who emptied his rifle into a Palestinian schoolgirl](https://www.theguardian.com/world/2005/nov/16/israel2)
+- Categories:
+  
+    - History
+  

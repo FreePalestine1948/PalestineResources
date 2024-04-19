@@ -151,3 +151,26 @@
     - Publications
     - Data/Statistics
   
+
+### Truth About Palestine
+
+- Description: truth About Palestine From history to present
+- Link: [Truth About Palestine](https://truthaboutpalestine.com/)
+- Categories:
+  
+    - History
+    - Art, Activism, and Education
+    - Data/Statistics
+    - Donations
+  
+
+### State Of Palestine NAD
+
+- Description: The official website of the Palestine Liberation Organization Negotiation Affairs Department
+- Link: [State Of Palestine NAD](https://www.nad.ps)
+- Categories:
+  
+    - Publications
+    - Art, Activism, and Education
+    - Data/Statistics
+  

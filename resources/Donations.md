@@ -29,3 +29,34 @@
     - Non-profit Organizations
     - Donations
   
+
+### Truth About Palestine
+
+- Description: truth About Palestine From history to present
+- Link: [Truth About Palestine](https://truthaboutpalestine.com/)
+- Categories:
+  
+    - History
+    - Art, Activism, and Education
+    - Data/Statistics
+    - Donations
+  
+
+### Wijdan Charity
+
+- Description: A charity organization with different campaigns
+- Link: [Wijdan Charity](https://wijdancharity.ensany.com/)
+- Categories:
+  
+    - Donations
+  
+
+### Palestine Red Crescent Society
+
+- Description: Palestine Red Crescent Society (PRCS) officially founded in 1968, is a national humanitarian organization caters to the health and welfare of the Palestinian people and others in need.
+- Link: [Palestine Red Crescent Society](https://www.palestinercs.org)
+- Categories:
+  
+    - Non-profit Organizations
+    - Donations
+  
